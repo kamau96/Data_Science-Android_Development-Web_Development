@@ -1,3 +1,7 @@
 # The study materials used for this journey aren't to be uploaded due to their large size
 
 Study_material/
+
+# Ignore tgz files
+
+*.tgz
